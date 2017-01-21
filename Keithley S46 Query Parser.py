@@ -21,16 +21,4 @@ for t in test_in:
     print 'Original: {}'.format(t)
     print 'Result: {}, {}, {}, {}'.format(res[0], res[1], res[2], res[3])
 
-
-##import re
-##
-##so  basically use '\d\d|\d' in a list now
-##
-##result =[0,0,0,0]
-##for x in regexList:
-##    if x in xrange(1,7):
-##        result[0] = x
-##        
-##    elif x in xrange(1,7):
-##        result[0] = x
         
